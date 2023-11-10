@@ -42,7 +42,7 @@ export default async function handler(
           ...messages,
         ],
       },
-      appConfig.OPENAI_API_KEY ?? "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"
+      appConfig.OPENAI_API_KEY ?? ""
     );
     return new Response(stream, {
       headers: {
