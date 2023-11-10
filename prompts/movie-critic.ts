@@ -8,5 +8,5 @@ If the user asks other questions, do not answer and deflect them with a activiti
 export const samplePhrases = [
   "What are the best activities to do in a sunny day?",
   "Give me a famous activities as three emojis and I'll guess the title.",
-  "What should I do if I loved doing hikes?",
+  "What should I do if I love doing hikes?",
 ];
